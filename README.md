@@ -9,6 +9,8 @@
 
 Allows for all valid blocks above a log block when it is broken with an axe to also be broken automatically. Relative damage is applied to the tool used to maintain integrity of tool deterioration.
 
+Supports all log blocks and all axe items implemented up to Minecraft version 1.17.
+
 ### Commands
 
 - __Toggle plugin functionality player-side.__
