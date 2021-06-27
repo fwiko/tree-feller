@@ -1,0 +1,9 @@
+name: TreeFeller
+version: ${project.version}
+main: raff.treefeller.TreeFeller
+api-version: 1.17
+authors: [ Raff ]
+website: https://raffsimms.com
+commands:
+  tf:
+    description: Toggle TreeFeller functionality
